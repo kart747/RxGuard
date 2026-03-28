@@ -1,0 +1,11 @@
+{
+  "chat.tools.autoApprove": true,
+  "chat.agent.autoApproveCommands": true,
+  "github.copilot.chat.experimental.toolUse.autoApprove": true,
+  "copilot.chat.tool.autoApprove": true,
+  "copilot.agent.autoApprove": true,
+  "chat.tools.global.autoApprove": true,
+  "chat.requestPreview": false,
+  "github.copilot.chat.requestPreview": false,
+  "chat.agent.enabled": true
+}
