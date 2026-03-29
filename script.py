@@ -31,8 +31,8 @@ from typing import Any, Optional
 import cv2
 import numpy as np
 
-from backend.modules.module3.drug_normalization import normalize_drug_list
-from backend.modules.module2.med7_ner import extract_med7_entities
+from drug_normalization import normalize_drug_list
+from med7_ner import extract_med7_entities
 
 
 # Set by run_ocr for CLI save behavior.
