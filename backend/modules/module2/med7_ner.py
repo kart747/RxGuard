@@ -19,7 +19,7 @@ import json
 import re
 from typing import Any
 
-from drug_normalization import normalize_drug_list
+from backend.modules.module3.drug_normalization import normalize_drug_list
 
 _SPACY_PIPELINE: Any | None = None
 _SPACY_ERROR: str | None = None
